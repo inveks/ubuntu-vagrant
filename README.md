@@ -1,8 +1,4 @@
-This builds an up-to-date Vagrant Ubuntu Base Box as described at the [From Iso To Vagrant Box](http://blog.ruilopes.com/from-iso-to-vagrant-box.html) article.
-
 Currently this targets [Ubuntu 20.04 (Focal Fossa)](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes).
-
-Other Ubuntu versions might be available in a [separate branch](https://github.com/inveks/ubuntu-vagrant/branches).
 
 # Usage
 
